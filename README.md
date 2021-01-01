@@ -1,0 +1,2 @@
+# operations-on-array-line-field-and-carriage-return
+Declare an array of four digits access and print each digit on new line  First declare an array of four digits then initialize it in main proc. Then mov the offset of array in si register. Display the first element of array on screen by incrementing the si register display the next 3 elements of array. Then exit the program by execution statement
